@@ -13,3 +13,4 @@ git stash apply
 
 this is from git hub
 
+git push

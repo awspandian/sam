@@ -8,3 +8,5 @@ git log
 git log --oneline
 
 git stash pop
+
+git stash apply
